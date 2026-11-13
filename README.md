@@ -1,33 +1,63 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://th.bing.com/th/id/OIG1.XP_IAQXOLAy_kP.u7ATn?pid=ImgGn))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vilas Sonawane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Frontend-focused MERN Stack Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vilassonawane12&label=Profile%20views&color=0e75b6&style=flat" alt="vilassonawane12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vilassonawane12" alt="vilassonawane12" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **React js**
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **sonawanev4479@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vilas-sonawane-54418a188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vilas-sonawane-54418a188" height="30" width="40" /></a>
-<a href="https://instagram.com/vilassonawane_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vilassonawane_1" height="30" width="40" /></a>
+<p align="center">
+  I build responsive, user-friendly web apps with React, Node.js and MongoDB.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vilas-sonawane-54418a188"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sonawanev4479@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vilassonawane12&show_icons=true&locale=en&layout=compact" alt="vilassonawane12" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vilassonawane12&show_icons=true&locale=en" alt="vilassonawane12" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vilassonawane12&" alt="vilassonawane12" /></p>
+- 🔭 Currently building **MERN stack projects** (full-stack, with authentication and REST APIs)
+- 🌱 Learning: **React.js advanced concepts, Redux Toolkit, TypeScript**
+- 💼 Open to **internships and junior developer roles** (Frontend / MERN)
+- 📍 Based in Aurangabad, Maharashtra
+- 📫 Reach me at: **sonawanev4479@gmail.com**
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass" alt="Frontend skills"/>
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend skills"/>
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools"/>
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **E-Music Hackathon** | Music web app built during a hackathon | HTML, CSS, JS | [Code](https://github.com/Vilassonawane12/E-Music-Hackathon) |
+| **Quiz App** | Interactive quiz with score tracking | JavaScript | [Code](https://github.com/Vilassonawane12/Quiz_App) |
+| **To-Do List** | Add, edit, delete and filter tasks | JavaScript | [Code](https://github.com/Vilassonawane12/To_do_list) |
+| **Your MERN Project (add soon)** | Full-stack app with login, CRUD, REST API | MongoDB, Express, React, Node | Add link |
+
+> 💡 Tip: Add a **live demo link** (Netlify / Vercel / Render) for every project.
+
+## 📈 GitHub Activity
+
+<p>
+  <img src="https://img.shields.io/github/followers/Vilassonawane12?style=for-the-badge&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Vilassonawane12?style=for-the-badge&logo=github" alt="Stars"/>
+</p>
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile! Let's connect and build something great.</p>
